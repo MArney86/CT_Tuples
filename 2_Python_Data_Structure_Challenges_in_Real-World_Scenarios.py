@@ -1,8 +1,4 @@
-#Task 1: Library System Enhancement Sharpen your skills in managing and modifying data within tuples and lists.
-
-#Problem Statement: You are maintaining a library system where each book is stored as a tuple within a list. Your task is to update this system by adding new books and ensuring no duplicates.
-
-#- Add functionality to insert new books into `library`. Ensure that adding a duplicate book is handled appropriately.
+#Task 1:
 
 def add_book(library, title, author): #function to add books to library
     found = False #flag for checking if book to add is already in library

@@ -1,8 +1,4 @@
-#Task 1: Customer Order Processing Refine your skills in tuple unpacking by managing customer orders.
-
-#Problem Statement: You are given a list of tuples, each representing a customer's order. Each tuple contains the customer's name, the product ordered, and the quantity. Your task is to unpack each tuple and print the order details in a user-friendly format.
-
-#Sample Order Data:
+#Task 1:
 
 def format_orders(orders): #function to format the give order list into a list of formatted strings for printing
     formatted_orders = [] #initialize list of formatted order strings to return from function 
